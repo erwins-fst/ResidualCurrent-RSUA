@@ -12,3 +12,5 @@ Then, Convert commas to dot in column 'Y[0]', it was saved using Indonesian nume
 Finally, Convert column 'Y[0]' to numeric type, using **pd.to_numeric()**
 
 Don't forget to cite the article for the introduction or methods being used, at Energies
+
+[https://www.mdpi.com/1996-1073/19/10/2309](https://www.mdpi.com/1996-1073/19/10/2309)
